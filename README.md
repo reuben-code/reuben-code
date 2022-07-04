@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a full stack software engineer who  is passionate for distributed, service oriented and message driven systems architectures.
 <!--
 **r-masi/r-masi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
